@@ -101,6 +101,10 @@ An interactive Power BI dashboard was developed to present key business metrics 
 
 <img width="965" height="542" alt="image" src="https://github.com/user-attachments/assets/acc43794-51b5-4ce6-846c-22d7f70371b6" />
 
+### Download Power BI Dashboard
+
+[Click here to download the interactive Power BI dashboard (.pbix)](https://drive.google.com/file/d/1YD2sAkrNueII5Km6xM6CFFqeRWKN7DFw/view?usp=sharing)
+
 ### Dashboard Features
 
 - **KPI Cards:** Delivered Revenue, Total Orders, Delivered Orders, and Average Order Value.
