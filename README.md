@@ -1,4 +1,4 @@
-# Olist E-Commerce Sales Analysis 📊
+# O-list E-commerce Customer Retention & RFM Analysis 📊
 
 ## Project Overview
 
