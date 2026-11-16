@@ -23,6 +23,14 @@ The project uses the **Brazilian E-Commerce Public Dataset by Olist**, available
 
 The dataset contains approximately 100,000 orders made between 2016 and 2018. It provides information about customers, orders, products, sellers, payments, reviews, and geographical locations.
 
+### Dataset Access
+
+The original dataset is publicly available on Kaggle.
+
+[Download Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+Note: The raw dataset files are not included in this repository. Please download them from Kaggle.
+
 ### Dataset Tables
 
 The analysis uses the following nine tables:
